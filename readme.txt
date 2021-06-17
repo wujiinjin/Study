@@ -3,4 +3,4 @@ git is free software
 i am delete
 it,s mine
 this is a wrong msg
-creating a new branch is quick & simple
+Creating a new branch is quick and simple
